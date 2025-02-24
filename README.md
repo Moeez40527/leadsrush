@@ -1,2 +1,0 @@
-# leadsrush
-My awesome repository
